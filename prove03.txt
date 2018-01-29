@@ -1,7 +1,7 @@
 When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
 
 1. Please provide the URL of your public GitHub repository.
-
+	https://github.com/CodyAslett/cs450_week3.git
 
 2. What was the most difficult part of this assignment?
 	figuring out each data set
