@@ -1,0 +1,36 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+1. Please provide the URL of your public GitHub repository.
+
+
+2. What was the most difficult part of this assignment?
+	figuring out each data set
+
+3. Briefly describe your process for handling non-numeric data.
+	take the collum turn it into a set and assign each a numaric value
+
+4. Briefly describe your process for missing data.
+	mark it as Na
+
+5. Describe your results for the Car Evaluation dataset.
+	70% +
+
+6. Describe your results for the Pima Indian dataset.
+	inconsistant
+
+7. Describe your results for the Automobile MPG dataset.
+	70% +
+
+8. Describe anything you did to go above and beyond the minimum standard requirements.
+
+
+9. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+C
+
+10. Provide a brief justification (1-2 sentences) for selecting that category.
+	got it workign for the most part
